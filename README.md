@@ -1,0 +1,1 @@
+Gradient Background Generator – Built a web application using HTML, CSS, and JavaScript that generates random gradient backgrounds on button clicks. Implemented DOM manipulation and event handling to dynamically update the UI. Designed a clean, responsive interface with CSS Flexbox. Added functionality to display the generated CSS code for easy copying and reuse.
